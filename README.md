@@ -7,4 +7,4 @@ I'm using a Pimorini Pi Display in this demo, but the code can be used for anyth
 
 For more information see the comments in the Python and MicroPython file.
 
-If you are on windows, be sure to check the serial post as in the code it's dev/ttyACM0 for a Linux machine.
+If you are on Windows, be sure to check the serial post as in the code it's dev/ttyACM0 for a Linux machine.
