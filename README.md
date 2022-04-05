@@ -1,6 +1,6 @@
 # Pico
 
-Simple two-way serial between Raspberry Pi Pico and any Pi or PC without additional hardware:
+Simple two-way serial communication between a Raspberry Pi Pico and any Pi or PC without additional hardware:
 
 Raspbery Pi Pico code demonstrating USB serial communication. It's nothing fancy.
 One files goes on the Pico (as main.py or run it from Thonny),
